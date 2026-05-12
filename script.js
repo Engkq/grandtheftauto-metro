@@ -8,7 +8,7 @@ const playBtn = document.getElementById('playBtn');
 
 const SERVER_IP = '127.0.0.1';
 const SERVER_PORT = '2010';
-const DISCORD_INVITE = '4yzemNcgw8'; // ganti kalau invite beda
+const DISCORD_INVITE = 'FzEcpt8xAd'; // ganti kalau invite beda
 
 // Preloader
 window.addEventListener('load', () => {
