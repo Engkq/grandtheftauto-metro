@@ -1,4 +1,4 @@
-const video = document.getElementById('video');
+const video = document.getElementById('bg-video');
 const music = document.getElementById('bg-music');
 const muteBtn = document.getElementById('muteBtn');
 const iconSound = document.getElementById('icon-sound');
@@ -6,8 +6,8 @@ const iconMute = document.getElementById('icon-mute');
 const preloader = document.getElementById('preloader');
 const playBtn = document.getElementById('playBtn');
 
-const SERVER_IP = '15.235.133.208';
-const SERVER_PORT = '7004';
+const SERVER_IP = '127.0.0.1';
+const SERVER_PORT = '2010';
 const DISCORD_INVITE = '4yzemNcgw8'; // ganti kalau invite beda
 
 // Preloader
